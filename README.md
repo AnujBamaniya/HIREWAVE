@@ -54,8 +54,9 @@ HIREWAVE/
 ---
 
 ## 🖼️ Screenshots
-
+Home Page:
 ![Home Page](screenshots/1_2_3.jpeg)
+Login Page:
 ![Login Page](screenshots/lp.png)
 
 ---
