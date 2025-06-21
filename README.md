@@ -16,7 +16,7 @@ _A dynamic job portal connecting job seekers with employers, built using **PHP**
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack Used
 
 | Technology  | Description              |
 |-------------|--------------------------|
@@ -26,12 +26,22 @@ _A dynamic job portal connecting job seekers with employers, built using **PHP**
 | Bootstrap   | Responsive UI            |
 | JavaScript  | Client-side interactivity|
 
----
 ##  Project Structure
 
-<pre> <code> ## 📁 Project Structure ``` HIREWAVE/ ├── Database/ │ └── hw_database.sql # MySQL database schema & seed data ├── System/ │ ├── *.php # Main PHP files for UI & logic │ ├── app/ # Application logic, routing, handlers │ ├── constants/ # Constant config values │ ├── bootstrap/ # Bootstrap framework files │ ├── css/ # Custom styling files │ └── php/ │ └── phpinfo.php # PHP environment info file ``` </code> </pre>     └── phpinfo.php              # PHP environment info file
+```
+HIREWAVE/
+├── Database/
+│   └── hw_database.sql               # MySQL database schema & seed data
+├── System/
+│   ├── *.php                         # Main PHP files for UI & logic
+│   ├── app/                          # Application logic, routing, handlers
+│   ├── constants/                    # Constant config values
+│   ├── bootstrap/                    # Bootstrap framework files
+│   ├── css/                          # Custom styling files
+│   └── php/
+│       └── phpinfo.php              # PHP environment info file
+```
 
----
 
 ##  How to Run the Project
 
