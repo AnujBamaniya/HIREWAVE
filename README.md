@@ -55,10 +55,8 @@ HIREWAVE/
 
 ## 🖼️ Screenshots
 
-
 ![Home Page]("C:\Users\Admin\Downloads\1_2_3.jpeg")
 ![Login Page]("C:\Users\Admin\OneDrive\Desktop\lp.png")
-
 
 ---
 
