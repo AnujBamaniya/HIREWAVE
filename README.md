@@ -1,10 +1,10 @@
-# 🌊 HIREWAVE – Job Recruitment Website
+#  HIREWAVE – Job Recruitment Website
 
 _A dynamic job portal connecting job seekers with employers, built using **PHP** and **MySQL**._
 
 ---
 
-## 📌 Features
+##  Features
 
 - User registration and authentication (job seeker & employer)
 - Job application and posting system
@@ -16,7 +16,7 @@ _A dynamic job portal connecting job seekers with employers, built using **PHP**
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Technology  | Description              |
 |-------------|--------------------------|
@@ -28,7 +28,7 @@ _A dynamic job portal connecting job seekers with employers, built using **PHP**
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 HIREWAVE/
 ├── Database/
 │ └── hw_database.sql
@@ -43,7 +43,7 @@ HIREWAVE/
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Install [XAMPP](https://www.apachefriends.org/) or WAMP.
 2. Move the `HIREWAVE/` folder to your `htdocs/` directory.
@@ -53,7 +53,7 @@ HIREWAVE/
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ![Home Page](screenshots/1_2_3.jpeg)
 ![Login Page](screenshots/lp.png)
