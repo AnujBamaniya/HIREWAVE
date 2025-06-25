@@ -28,17 +28,21 @@ _A dynamic job portal connecting job seekers with employers, built using **PHP**
 
 ---
 
-##  Folder Structure
+##  Project Structure
+
+```
 HIREWAVE/
 ├── Database/
-│ └── hw_database.sql
+│   └── hw_database.sql               # MySQL database schema & seed data
 ├── System/
-│ ├── *.php (UI & Logic)
-│ ├── app/
-│ ├── constants/
-│ ├── bootstrap/, css/
-└── php/
-└── phpinfo.php
+│   ├── *.php                         # Main PHP files for UI & logic
+│   ├── app/                          # Application logic, routing, handlers
+│   ├── constants/                    # Constant config values
+│   ├── bootstrap/                    # Bootstrap framework files
+│   ├── css/                          # Custom styling files
+│   └── php/
+│       └── phpinfo.php              # PHP environment info file
+```
 
 
 ---
