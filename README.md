@@ -1,6 +1,6 @@
 #  HIREWAVE – Job Recruitment Website
 
-_A fully responsive dynamic job portal connecting job seekers with employers, built using #PHP# and #MySQL#._
+_A fully responsive dynamic job portal connecting job seekers with employers, built using PHP and MySQL._
 
 ---
 
