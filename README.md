@@ -40,8 +40,8 @@ HIREWAVE/
 │   ├── constants/                    # Constant config values
 │   ├── bootstrap/                    # Bootstrap framework files
 │   ├── css/                          # Custom styling files
-│   └── php/
-│       └── phpinfo.php              # PHP environment info file
+├── php/
+│   ├── phpinfo.php                   # PHP environment info file
 ```
 
 
